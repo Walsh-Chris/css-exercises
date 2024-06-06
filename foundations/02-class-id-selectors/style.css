@@ -3,3 +3,8 @@
     background-color:rgba(255, 0, 106,0.35);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
+#line2 {
+    color:rgb(0, 132, 255);
+    font-size: 36px;
+}
